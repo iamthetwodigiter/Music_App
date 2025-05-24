@@ -2,6 +2,9 @@
 
 A Flutter application that connects users with professional music services including production, mixing/mastering, lyrics writing, and vocals.
 
+## 📱 App Demo
+https://github.com/user-attachments/assets/3f6cfde3-8cf1-4da1-bfdf-2cf3ec0e4bd5
+
 ## 🏗️ Project Structure
 
 The project follows a feature-first architecture for better scalability and maintainability:
